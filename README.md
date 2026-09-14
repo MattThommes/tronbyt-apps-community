@@ -4,6 +4,11 @@
 [![Discourse](https://img.shields.io/discourse/status?server=https%3A%2F%2Fdiscuss.tidbyt.com&style=flat-square)](https://discuss.tidbyt.com/)
 [![Discord Server](https://img.shields.io/discord/928484660785336380?style=flat-square)](https://discord.gg/rsCvHFsGfX)
 
+> **Repository Note**:
+> This repository (`MattThommes/tronbyt-apps-community`) is a **fork of the official upstream [`tronbyt/apps`](https://github.com/tronbyt/apps)** open-source repository.
+> - **Purpose**: Used for syncing upstream community apps and creating feature branches to submit Pull Requests to the public Tronbyt app catalog.
+> - **Personal / Private Apps**: Personal, private, or standalone custom apps (e.g. `school_lunch`) live in [`MattThommes/tronbyt-apps`](https://github.com/MattThommes/tronbyt-apps).
+
 ---
 
 ### **Discover, explore, and install hundreds of apps!**
